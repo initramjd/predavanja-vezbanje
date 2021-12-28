@@ -1,6 +1,6 @@
 package p28_12_2021;
 
-public class Zadatak1 {
+public class HelperMethods {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
